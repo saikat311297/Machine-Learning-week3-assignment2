@@ -1,1 +1,1 @@
-# Machine Learning Assignment 1 (Andrew Ng) (Standford University)
+# Machine Learning Assignment 2 (Andrew Ng) (Standford University)
